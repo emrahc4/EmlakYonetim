@@ -1,0 +1,1 @@
+".bacpac" uzantılı veritabanı dosya'yı sql veritabanınıza atmanız yeterli olacaktır.

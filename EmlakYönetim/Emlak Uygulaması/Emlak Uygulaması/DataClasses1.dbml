@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="Emlak" Class="DataClasses1DataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=localhost\SQLEXPRESS;Initial Catalog=Emlak;Integrated Security=True" SettingsObjectName="Emlak_Uygulaması.Properties.Settings" SettingsPropertyName="EmlakConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.Ilan_Gorselleri" Member="Ilan_Gorselleris">
+    <Type Name="Ilan_Gorselleri">
+      <Column Name="Id" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ilan_No" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilan_Gorselleri" Member="Ilan_Gorselleri1" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Kiralik" Member="Kiraliks">
+    <Type Name="Kiralik">
+      <Column Name="E_Kayit" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ilan_Baslik" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="Ilan_Tarih" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilan_Konum" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="Ilan_Temel_G" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Ucret" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Alan" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Bina_Yasi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Kat_Sayisi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Isitma" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Balkon" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Aidat" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilani_Veren" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilani_Veren_Tel" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Satilik" Member="Satiliks">
+    <Type Name="Satilik">
+      <Column Name="E_Kayit" Type="System.Int32" DbType="Int NOT NULL IDENTITY" IsPrimaryKey="true" IsDbGenerated="true" CanBeNull="false" />
+      <Column Name="Ilan_Baslik" Type="System.String" DbType="VarChar(150)" CanBeNull="true" />
+      <Column Name="Ilan_Tarih" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilan_Konum" Type="System.String" DbType="VarChar(120)" CanBeNull="true" />
+      <Column Name="Ilan_Temel_G" Type="System.Data.Linq.Binary" DbType="Image" CanBeNull="true" UpdateCheck="Never" />
+      <Column Name="Ucret" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Alan" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Bina_Yasi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Kat_Sayisi" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Isitma" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Balkon" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Aidat" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilani_Veren" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Ilani_Veren_Tel" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+</Database>

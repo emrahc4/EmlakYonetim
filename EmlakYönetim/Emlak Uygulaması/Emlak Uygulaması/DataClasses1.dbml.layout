@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 9.5" name="DataClasses1">
+  <DataContextMoniker Name="/DataClasses1DataContext" />
+  <nestedChildShapes>
+    <classShape Id="836eb749-9541-4858-9c2f-1e1b32844348" absoluteBounds="0.75, 2.5, 2.125, 1.3862939453125">
+      <DataClassMoniker Name="/DataClasses1DataContext/Ilan_Gorselleri" />
+      <nestedChildShapes>
+        <elementListCompartment Id="66a2fb99-d9e4-43ff-8438-434d101ae792" absoluteBounds="0.765, 2.96, 2.0949999999999998, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="572421b6-5f34-48f2-ae34-b824ca2ead27" absoluteBounds="3.75, 0.75, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/DataClasses1DataContext/Kiralik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9b8dc8bf-2948-4d9e-967a-130d85a7db8e" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="2a3930a8-2e73-41be-8e8c-71aeb5177d99" absoluteBounds="0.75, 5.75, 2, 3.5016097005208326">
+      <DataClassMoniker Name="/DataClasses1DataContext/Satilik" />
+      <nestedChildShapes>
+        <elementListCompartment Id="a18cf861-80bb-4c35-8619-088ac5623f6b" absoluteBounds="0.765, 6.21, 1.9700000000000002, 2.941609700520833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

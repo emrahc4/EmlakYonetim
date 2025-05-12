@@ -1,0 +1,27 @@
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.exe.config
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.exe
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.pdb
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csprojResolveAssemblyReference.cache
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Properties.Resources.resources
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csproj.GenerateResource.Cache
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.exe
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.pdb
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.AnaEkran.resources
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Ilanlar.resources
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Ilan.resources
+c:\users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.İlanEkle.resources
+C:\Users\gamer\documents\visual studio 2015\Projects\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.IlanGuncelle.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.exe.config
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.exe
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\bin\Debug\Emlak Uygulaması.pdb
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csproj.AssemblyReference.cache
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.IlanGuncelle.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.İlanEkle.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.AnaEkran.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Ilan.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Ilanlar.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak_Uygulaması.Properties.Resources.resources
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csproj.GenerateResource.cache
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.exe
+C:\Users\Emrah\OneDrive\Desktop\Emlak_Programi-main\Emlak Uygulaması\Emlak Uygulaması\obj\Debug\Emlak Uygulaması.pdb
